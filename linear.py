@@ -16,3 +16,4 @@ size=int((input("enter the size of an array:"))
          print("the element is found at index:",result)
          else:
              print("the element is not found")
+htweetnwlthsw
